@@ -1,0 +1,7 @@
+The original data was collected in the network lab by running perfSonar network measurement tool on 
+the nation-wide university research network backbone.
+
+The file name represents the ip addresses of the target newtwork node, 
+which each row of the content being the specific measurement one-way delay.
+
+The original data size was around 100MB and I only kept only a portion of the original data for the demenstration. 
